@@ -1,0 +1,7 @@
+{
+	"name": "PhoneTones",
+	"version": "1.0.0",
+	"keywords": ["phone", "tone", "dialtone", "tone generator"],
+	"author": "David Wakelin <david@davidwakelin.co.uk>",
+	"description": "A Javascript library for generating dial tones natively in the browser."
+}
